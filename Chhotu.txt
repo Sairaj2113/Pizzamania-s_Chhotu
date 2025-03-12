@@ -1,0 +1,8 @@
+Chhotu Conversational ChatBot
+
+Technologies used:
+	1. DialogFlow for intent classification, Context recognition
+	2. FastApi to integrate backend with chatbot
+	3. Python flask for frontend
+	4. Ngrok for converting http local server to https secure local server
+
